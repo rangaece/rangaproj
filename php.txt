@@ -1,0 +1,6 @@
+#!/bin/bash
+yum install -y phP
+setenforce 0
+systemctl stop firewalld
+systemctl enable phP
+systemctl start phP
