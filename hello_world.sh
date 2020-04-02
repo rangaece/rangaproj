@@ -1,1 +1,1 @@
-say 'wecome to world';
+say 'welcome to world';
